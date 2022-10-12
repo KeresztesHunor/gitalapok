@@ -1,5 +1,45 @@
 body
 {
-    background-color: magenta;
-    color: aqua;
+    background-color: blue;
+    color: black;
+}
+
+.wrapper
+{
+    background-color: aqua;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+p
+{
+    text-align: justify;
+}
+
+.balra
+{
+    padding: 2px;
+    border-bottom: 1px solid gray;
+}
+
+.jobbra
+{
+    padding: 2px;
+    border-bottom: 1px solid gray;
+}
+
+.balra img
+{
+    float: left;
+}
+
+.jobbra img
+{
+    float: right;
+}
+
+.torol
+{
+    clear: both;
 }
